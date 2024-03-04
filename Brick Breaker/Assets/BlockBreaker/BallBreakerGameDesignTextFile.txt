@@ -1,0 +1,9 @@
+Block Breaker game design:
+1.What kind of "Player Experience" we're trying to create:
+Quick reactions
+2.Core Mechanic:
+Breaking Blocks
+3.Theme:
+Blocky, coulourful
+4.Core game loop:
+Smesh all blocks without lestting the ball drop, in order to progress to the next level.
